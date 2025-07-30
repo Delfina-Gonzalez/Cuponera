@@ -1,0 +1,2 @@
+# Cuponera
+Genera cupones aleatorios
