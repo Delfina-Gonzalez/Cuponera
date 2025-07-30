@@ -1,2 +1,2 @@
 # Cuponera
-Genera cupones aleatorios
+Genera cupones aleatorios de longitud máxima fija (30)
